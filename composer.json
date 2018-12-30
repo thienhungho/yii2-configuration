@@ -1,0 +1,19 @@
+{
+    "name": "thienhungho/yii2-configuration",
+    "description": "Yii2 HRM",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","hrm"],
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "thienhungho",
+            "email": "thienhungho@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "yiisoft/yii2": "~2.0.9",
+        "thienhungho/yii2-app-core": "*",
+        "thienhungho/yii2-template-configuration": "*"
+    }
+}
