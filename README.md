@@ -20,3 +20,9 @@ or add
 ```
 
 to the require section of your `composer.json` file.
+
+Pakages
+------------
+
+[TemplateConfigurations](https://github.com/thienhungho/yii2-template-configuration)
+[DevConfigurations](https://github.com/thienhungho/yii2-dev-configuration)
